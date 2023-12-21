@@ -1,0 +1,114 @@
+@model Add
+@{
+    Layout="_AdminLayout";
+    ViewData["Title"] = "Addemployees";
+}
+<head>
+    <Style>
+        label{
+            width: 9em;
+            font-weight: bold;
+            margin-left:-10%;
+            margin-top:10%;
+            height:2em;
+            color:rgb(27, 60, 123);       
+        }
+        input{
+            margin-left:-15%;
+            margin-top:10%;
+            height: 2em;
+        }
+        button{
+            margin-top: 30px;
+            width: 4em;
+            margin-left: 80px;
+             border:none ;
+             background-color: rgb(100, 141, 218);
+             border-radius: 7%;
+        }
+        .radio1{
+            margin-left:20px;
+            margin-top: 5px;
+
+        }
+        .radio2{
+            margin-left:-50px;
+           
+        }
+    </Style>
+</head>
+<body background="https://i.pinimg.com/736x/87/df/5c/87df5cfae6807d30f659ae8c479a9d48.jpg" >
+
+<div style="margin-left: 80%; width:500px">
+    <h1 style="color:rgb(100, 141, 218);width:400px; margin-top:10%;">Employee Details</h1></style>
+    <form method="post">
+        
+    <table style="margin-top:5%;"class="center">
+        
+    <tr>
+        <td>
+        <label asp-for="Name" type="text" > Name: </label></td>
+        <td><input asp-for="Name" type="text" id="Name" name="Name" required/>
+       
+    </td></tr>
+    <tr>
+        <td>
+        <label asp-for="Userid" >User ID: </label></td>
+        <td><input asp-for="Userid" required/>
+
+        </td></tr>
+        <tr>
+        <td>
+        <label asp-for="Password" >Password: </label></td>
+        <td><input type="password" asp-for="Password" pattern="^.*(?=.{8,})(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[#$%^&+=]).*$" required/>
+
+        </td></tr>
+         <tr>
+        <td>
+        <label asp-for="Age" >Age: </label></td>
+        <td>
+        <input asp-for="Age" required/>
+        </td></tr>
+        <tr>
+         <td>
+        <label asp-for="Gender" >Enter your Gender:</label></td>
+        <td> 
+        <input type="radio" id="Gender" name="Gender" value="Male" class="radio1" asp-for="Gender" >Male</input></td>
+        <td>
+        <input type="radio" id="Gender" name="Gender" class="radio2"  value="Female" asp-for="Gender" >Female</input>
+        </td></tr>   
+        <td>
+        <label asp-for="Role" >Role: </label></td>
+        <td>
+        <input asp-for="Role" value="Employee" readonly/>
+
+        </td></tr>
+        <tr>
+        <td>
+        <label asp-for="PhoneNumber" >Phone Number: </label></td>
+        <td>
+        <input asp-for="PhoneNumber" required/>
+
+        </td></tr>
+
+    <tr>
+        <td>
+        <label asp-for="city " > City: </label></td>
+        <td>
+        <input asp-for="city" required/>
+        </td></tr>
+
+    <tr>
+        <td>
+        <button type="submit">Submit</button></td>
+        <td>
+        <button type="submit" asp-action="nav">Back</button>
+        </td></tr>
+
+    
+    </table>
+ 
+    </form>
+</body>
+         
+

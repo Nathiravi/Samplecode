@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<!-- saved from url=(0042)http://localhost:5176/Home/Employeedetails -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List - Insurance</title>
+    <link rel="stylesheet" href="./List - Insurance_files/bootstrap.min.css">
+    <link rel="stylesheet" href="./List - Insurance_files/site.css">
+    <link rel="stylesheet" href="./List - Insurance_files/Insurance.styles.css">
+</head>
+<body background="./List - Insurance_files/87df5cfae6807d30f659ae8c479a9d48.jpg" style="background-size: cover">
+    <header>
+        <nav b-ypjbq04k80="" class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div b-ypjbq04k80="" class="container-fluid">
+                <a class="navbar-brand" style="color: rgb(100, 141, 218);font-weight:bold;" href="http://localhost:5176/"><img b-ypjbq04k80="" src="./List - Insurance_files/Logo.jpg" width="50px" height="50px" style="margin-left: 10px;">  Insurance Management System </a>
+                <button b-ypjbq04k80="" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span b-ypjbq04k80="" class="navbar-toggler-icon"></span>
+                </button>
+                <div b-ypjbq04k80="" class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul b-ypjbq04k80="" class="navbar-nav flex-grow-1">
+                        <li b-ypjbq04k80="" class="nav-item" style="margin-left:85%">  
+                            <a class="nav-link" style="font-size: large;font-weight:bold;color:rgb(100, 141, 218)" href="http://localhost:5176/Home/Login"><img b-ypjbq04k80="" src="./List - Insurance_files/Login.jpg" width="50px" height="35px">Log In</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div b-ypjbq04k80="" class="container">
+        <main b-ypjbq04k80="" role="main" class="pb-3">
+            
+ 
+  
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<style>
+    th,td{
+        padding: 10px;
+        text-align: center;
+    }
+    button{
+        border:none ;
+        background-color: rgb(244, 242, 245);
+        border-radius: 7%;
+    }
+    label{
+        margin-left: 400px;
+        width: 400px;
+        font-weight: bold;
+        font-size: xx-large
+    }
+    table{
+        margin-left: 40px;
+        margin-top: 10%;
+
+    }
+</style>
+
+
+
+        <div class="col py-3">
+            <label>Employee Details</label>
+            <br>
+            <div class="row">
+            <p><a class="btn btn-outline-primary" href="http://localhost:5176/home/nav" role="button">Back</a></p> 
+            </div>
+<table border="3">
+    <thead>
+        <tr>
+          
+          <th>Name</th>
+          <th>User ID</th>
+          <th>Age</th>
+          <th>Role</th>
+          <th>Gender</th>
+          <th>Phone Number</th>
+          <th>City</th>
+  
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+ 
+        </div>
+    </main></div>
+
+        
+
+             
+        
+    
+    <script src="./List - Insurance_files/jquery.min.js.download"></script>
+    <script src="./List - Insurance_files/bootstrap.bundle.min.js.download"></script>
+    <script src="./List - Insurance_files/site.js.download"></script>
+    
+<script src="./List - Insurance_files/aspnetcore-browser-refresh.js.download"></script>
+
+</body></html>

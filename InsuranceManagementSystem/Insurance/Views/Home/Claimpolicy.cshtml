@@ -1,0 +1,65 @@
+@model Claims
+@{
+    Layout="_EmployeeLayout";
+    ViewData["Title"] = "Addemployees";
+}
+<head>
+    <Style>
+        label{
+            width: 9em;
+            font-weight: bold;
+            margin-left:-10%;
+            margin-top:10%;
+            height:2em;
+            color:rgb(27, 60, 123);       
+        }
+        input{
+            margin-left:-15%;
+            margin-top:9%;
+            height: 2em;
+        }
+        button{
+            margin-top: 30px;
+            width: 4em;
+            margin-left: 72px;
+             border:none ;
+             background-color: rgb(100, 141, 218);
+             border-radius: 7%;
+        }
+      
+    </Style>
+</head>
+<body background="https://i.pinimg.com/736x/87/df/5c/87df5cfae6807d30f659ae8c479a9d48.jpg" >
+
+<div style="margin-left: 80%; width:500px">
+    <h1 style="color:rgb(100, 141, 218);width:400px; margin-top:20%;">Claim Policy</h1></style>
+    <form method="post" asp-action="Claimspolicy">
+        
+    <table style="margin-top:5%;"class="center">
+        
+    <tr>
+        <td>
+        <label asp-for="PolicyID" type="text" > PolicyID: </label></td>
+        <td><input asp-for="PolicyID" type="number" value="@Model.PolicyID" readonly/>
+       
+    </td></tr>
+    <tr>
+        <td>
+        <label asp-for="Document" >Document: </label></td>
+        <td><input width="40em" asp-for="Document" type="file" accept=".pdf" required/>
+
+        </td></tr>
+    <tr>
+        <td>
+        <button type="submit">Submit</button></td>
+        <td>
+        <button type="submit" asp-action="Subscribed">Back</button>
+        </td></tr>
+
+    
+    </table>
+ 
+    </form>
+</body>
+         
+

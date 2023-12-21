@@ -1,0 +1,67 @@
+@model IEnumerable<Claims>
+@{
+    ViewData["Title"]="List";
+    Layout="_AdminLayout";
+}
+<style>
+    th,td{
+        padding: 10px;
+        text-align: center;
+    }
+    button{
+        border:none ;
+        background-color: rgb(27, 60, 123);
+        border-radius: 7%;
+        color:rgb(100, 141, 218);
+    }
+    label{
+        margin-left: 380px;
+        margin-top: 10px;
+        width: 400px;
+        font-weight: bold;
+        font-size: xx-large
+    }
+    table{
+        margin-left: 100px;
+        margin-top: 2px;
+        min-width: 900px;
+        max-width: 900px;
+
+    }
+</style>
+<body background="https://i.pinimg.com/736x/87/df/5c/87df5cfae6807d30f659ae8c479a9d48.jpg" >
+
+<label style="color: rgb(100, 141, 218);">Employee Details</label>
+<table border=3 class="table table-striped table-hover">
+    <thead>
+        <tr>
+          
+          <th>Claim ID</th>
+          <th>Policy ID</th>
+          <th>Proof Document</th>
+          <th></th>
+          <th></th>
+  
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Claims claims in Model){
+            <tr>
+                
+                <td>@claims.ClaimID</td>
+                <td>@claims.PolicyID</td>
+                <td><form method="post" asp-controller="Home" asp-action="ViewPDF"  asp-route-claimsID="@claims.ClaimID">
+                <button type="submit">View Document</button>
+                </form></td>
+                <td><form method="post" asp-route-ClaimID="@claims.ClaimID" asp-route-Status="Claim Successful">
+                <button type="submit">Accept</button>
+                </form></td>
+                <td>
+                <form method="post" asp-route-ClaimID="@claims.ClaimID" asp-route-Status="Claim Unsuccessful">
+                <button type="submit">Decline</button>
+                </form></td> 
+            </tr>
+        }
+    </tbody>
+</table>
+</body>

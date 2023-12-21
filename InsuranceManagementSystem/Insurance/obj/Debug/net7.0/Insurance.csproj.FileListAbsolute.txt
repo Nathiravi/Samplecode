@@ -1,0 +1,155 @@
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\appsettings.json
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\Insurance.staticwebassets.runtime.json
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\Insurance.exe
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\Insurance.deps.json
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\Insurance.runtimeconfig.json
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\Insurance.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\Insurance.pdb
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.csproj.AssemblyReference.cache
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.AssemblyInfoInputs.cache
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.AssemblyInfo.cs
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.csproj.CoreCompileInputs.cache
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.RazorAssemblyInfo.cache
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.RazorAssemblyInfo.cs
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.Insurance.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.build.Insurance.props
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Insurance.props
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Insurance.props
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\scopedcss\bundle\Insurance.styles.css
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\scopedcss\projectbundle\Insurance.bundle.scp.css
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\refint\Insurance.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.pdb
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.genruntimeconfig.cache
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\ref\Insurance.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nathiyaa.ravi\Desktop\INT00933\Insurance\obj\Debug\net7.0\Insurance.csproj.CopyComplete
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.csproj.AssemblyReference.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.AssemblyInfoInputs.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.AssemblyInfo.cs
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.RazorAssemblyInfo.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.RazorAssemblyInfo.cs
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\refint\Insurance.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.pdb
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\appsettings.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\Insurance.staticwebassets.runtime.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\Insurance.exe
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\Insurance.deps.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\Insurance.runtimeconfig.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\Insurance.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\Insurance.pdb
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.Insurance.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.build.Insurance.props
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Insurance.props
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Insurance.props
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\scopedcss\bundle\Insurance.styles.css
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\scopedcss\projectbundle\Insurance.bundle.scp.css
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.csproj.CopyComplete
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\Insurance.genruntimeconfig.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\Insurance\obj\Debug\net7.0\ref\Insurance.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.csproj.AssemblyReference.cache
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.AssemblyInfoInputs.cache
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.AssemblyInfo.cs
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.csproj.CoreCompileInputs.cache
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.RazorAssemblyInfo.cache
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.RazorAssemblyInfo.cs
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\refint\Insurance.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.pdb
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\appsettings.json
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\Insurance.staticwebassets.runtime.json
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\Insurance.exe
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\Insurance.deps.json
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\Insurance.runtimeconfig.json
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\Insurance.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\Insurance.pdb
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.Insurance.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.build.Insurance.props
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Insurance.props
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Insurance.props
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\scopedcss\bundle\Insurance.styles.css
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\scopedcss\projectbundle\Insurance.bundle.scp.css
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.csproj.CopyComplete
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\Insurance.genruntimeconfig.cache
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\ref\Insurance.dll
+C:\Users\Viyan\Downloads\Insurance\Insurance\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\appsettings.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\Insurance.staticwebassets.runtime.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\Insurance.exe
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\Insurance.deps.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\Insurance.runtimeconfig.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\Insurance.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\Insurance.pdb
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.csproj.AssemblyReference.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.AssemblyInfoInputs.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.AssemblyInfo.cs
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.RazorAssemblyInfo.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.RazorAssemblyInfo.cs
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.Insurance.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.build.Insurance.props
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Insurance.props
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Insurance.props
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\scopedcss\bundle\Insurance.styles.css
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\scopedcss\projectbundle\Insurance.bundle.scp.css
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.csproj.CopyComplete
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\refint\Insurance.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.pdb
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\Insurance.genruntimeconfig.cache
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\ref\Insurance.dll
+C:\Users\Gokul\Downloads\Nathiyaa_Insurance_KCT\24.07.23 Insurance\Insurance\obj\Debug\net7.0\scopedcss\Views\Shared\_EmployeeLayout.cshtml.rz.scp.css

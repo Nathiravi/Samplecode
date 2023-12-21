@@ -1,0 +1,62 @@
+ @model Add
+@{
+    ViewData["Title"] = "Profile";
+    Layout="_EmployeeLayout";
+
+}
+<style>
+.card {
+  box-shadow: 10px 10px 10px 10px rgba(10, 10, 10, 0.2);
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+</style>
+
+<body background="https://i.pinimg.com/736x/87/df/5c/87df5cfae6807d30f659ae8c479a9d48.jpg" style="background-size: cover"  ></body>
+<div class="card" style="margin-left:60%;width:100%;margin-top:10%">
+<div  class="padding" >
+    <div class="col-md-8" >
+        <!-- Column -->
+        
+        <div class="card-body little-profile" >
+                <div class="pro-img"style="margin-left: 50%;"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" height="100" width="100" alt="user"></div>
+                <p class="m-b-0" style="margin-left: 50%;"></p>
+                <p style="margin-left: 50%;">@Model.Role</p>
+                <br>
+                <br> 
+            <div class="row text-center m-t-10" style="margin-left: 20%;margin-top:-20px; width:300px;"> 
+                <div class="col-lg-5 col-md-2 m-t-10" >
+                    <p class="m-b-0 font-light">@Model.Name</p><small>Name</small>
+                </div>
+                <div class="col-lg-3 col-md-2 m-t-10">
+                    <p class="m-b-0 font-light">@Model.Userid</p><small>UserId</small>
+                </div>
+                <div class="col-lg-4 col-md-2 m-t-10">
+                    <p class="m-b-0 font-light">@Model.Gender</p><small>Gender</small>
+                </div>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+            <div class="row text-center m-t-10" style="margin-left:8px; margin-top:-20px; width:700px;">
+                 <div class=" col-md-2 m-t-10" style="width:68px">
+                    <p class="m-b-0 font-light">@Model.Age</p><small>Age</small>
+                </div>  
+                <div class="col-md-2 m-t-10" style="width:116px">
+                    <p class="m-b-0 font-light">@Model.PhoneNumber</p><small>Phone No</small>
+                </div>
+                <div class="col-lg-4 col-md-2 m-t-10">
+                    <p class="m-b-0 font-light">@Model.city</p><small>City</small>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div class="row" style="margin-top: 20px;">
+        <p><a  class="btn btn-outline-primary"  href="/Home/Insurance" role="button"> Back</a></p> 
+</div> 
